@@ -1,7 +1,0 @@
-/usr/local/lib/libnumerixpp.so
-/usr/local/include/libnumerixpp/mathematics/core.hpp
-/usr/local/include/libnumerixpp/mathematics/quadratic_equations.hpp
-/usr/local/include/libnumerixpp/physics/core.hpp
-/usr/local/include/libnumerixpp/physics/kinematics.hpp
-/usr/local/include/libnumerixpp/libnumerixpp.hpp
-/usr/local/include/libnumerixpp/core/common.hpp
