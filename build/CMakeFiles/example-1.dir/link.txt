@@ -1,0 +1,1 @@
+/usr/bin/c++ "CMakeFiles/example-1.dir/examples/example-1.cpp.o" -o example-1  -Wl,-rpath,/home/admin/Desktop/develop/library/build libnumerixpp.so 
